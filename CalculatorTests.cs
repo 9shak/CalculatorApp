@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Lab9_CalculatorApp;
+using CalculatorApp;
 using System;
 
 namespace CalculatorAppTest
